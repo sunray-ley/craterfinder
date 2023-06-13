@@ -34,6 +34,10 @@ Here are the usage instructions for Createrfinder:
 - Press F to mark or unmark mine locations
 - Press Q to quit the game
 
-## Issue Reporting
+## Contributing
 
-If you encounter any issues while using Createrfinder, feel free to submit an issue or contact the developer. We will address your issues as soon as possible and continue to improve this project.
+Contributions to Createrfinder are welcome! If you have any suggestions or questions, please open an issue or pull request on GitHub.
+
+## License
+
+Createrfinder is distributed under the MIT License. Please refer to the [LICENSE](https://github.com/sunray-ley/createrfinder/blob/main/LICENSE) file for more information.

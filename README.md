@@ -30,6 +30,8 @@ cargo install craterfinder
 
 ## Usage
 
+**NOTICE: Craterfinder is still under active development and will soon be available.**
+
 Type `craterfinder` in the terminal to start the program. After starting the program, follow the prompts to choose the game difficulty, customize the map size and number of mines, and use the keyboard to explore the mines and mark their locations.
 
 Here are the usage instructions for Craterfinder:

@@ -1,11 +1,11 @@
 [package]
-name = "luar"
-version = "0.1.1"
+name = "craterfinder"
+version = "0.1.0"
 edition = "2021"
-description = "Luar is a Lua interpreter implemented in Rust"
+description = "Craterfinder is a command-line Minesweeper game written in Rust"
 license = "MIT"
-documentation = "https://docs.rs/luar"
-repository = "https://github.com/sunray-ley/luar"
+documentation = "https://docs.rs/craterfinder"
+repository = "https://github.com/sunray-ley/craterfinder"
 
 [dependencies]
 ferris-says = "0.2"

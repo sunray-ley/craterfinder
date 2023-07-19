@@ -24,7 +24,7 @@ To install Craterfinder, you need to first install Rust and Cargo package manage
 
 Once installation is complete, execute the following command in the terminal to install Craterfinder:
 
-```
+```shell
 cargo install craterfinder
 ```
 
